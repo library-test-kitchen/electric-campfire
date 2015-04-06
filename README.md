@@ -4,9 +4,9 @@ Electric Campfire
 
 Getting Started
 ---------------
-<p>
-Download the DIY manual for ![print](./LTK-EC%20DIY%20print.pdf) or ![online](./LTK-EC%20DIY%20online.pdf) viewing!
-</p>
+
+Download the DIY manual for ![print](LTK-EC%20DIY%20print.pdf) or ![online](LTK-EC%20DIY%20online.pdf) viewing!
+
 ![open campfire](Photos/v2.jpg)<br />
 ![demo campfire](Photos/ec_v2.JPG)
 
